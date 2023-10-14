@@ -1,3 +1,3 @@
-const BASEURL = "https://job-listing-backend-0vmi.onrender.com/";
+const BASEURL = "https://job-listing-backend-0vmi.onrender.com";
 
 export default BASEURL;
