@@ -1,3 +1,3 @@
-const BASEURL = "https://job-listing-backend-development-3d3pzfo7n-harsh7231.vercel.app";
+const BASEURL = "https://job-listing-backend-0vmi.onrender.com";
 
 export default BASEURL;
